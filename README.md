@@ -1,4 +1,4 @@
-<h1>social-media-app</h1>
+<h1 align="center">social-media-app</h1>
 
 <h3 align="center">Full Stack App</h3>
 
